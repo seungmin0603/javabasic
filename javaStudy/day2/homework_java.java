@@ -1,4 +1,4 @@
-package home_java;
+package javaStudy.day2;
 
 import java.util.Scanner;
 
