@@ -82,11 +82,12 @@ public class arrangementEx {
 		 * */
 		
 		int[] multi[] = new int [2][3];//2*3의 다중배열 생성함.
-		
-		//배열 초기화 문법 2 
+		multi [0][0] = 4;
+		System.out.println(multi[0][0]);
+//		//배열 초기화 문법 2 
 		
 		int[] [] m2 = {{1,2,3,100},{4,5,6,200},{7,8,9,300}};//new m2[3]
-		
+	
 		System.out.println(m2[2][3]);
 		System.out.println(m2[1][1]);
 		
